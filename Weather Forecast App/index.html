@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+		<link
+			rel="stylesheet"
+			href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+		/>
+		<link rel="stylesheet" href="style.css" />
+
+		<title>Weather Forecast App</title>
+	</head>
+
+	<body>
+		<div class="container-fluid title">
+			<h1 class="text-center">Weather App</h1>
+		</div>
+
+		<div class="container">
+			<div class="form">
+				<div class="inputBox">
+					<label class="labels">City</label>
+					<br />
+					<input class="inputs" id="inputCity" />
+				</div>
+
+				<div class="inputBox">
+					<label class="labels">Unit</label>
+					<br />
+					<select class="inputs" id="inputUnit">
+						<option value="metric">Metric</option>
+						<option value="imperial">imperial</option>
+					</select>
+				</div>
+			</div>
+
+			<div class="mainContainer text-center">
+				<div>
+					<h2>Current</h2>
+					<div alt="icon" id="image"></div>
+					<h4 id="temp"></h4>
+					<h4 id="wind"></h4>
+					<h4 id="rainfall"></h4>
+					<h4 id="sunrise"></h4>
+					<h4 id="sunset"></h4>
+				</div>
+
+				<div>
+					<h2>Forecast</h2>
+					<div alt="icon" id="imageF"></div>
+					<h4 id="tempF"></h4>
+					<h4 id="windF"></h4>
+					<h4 id="rainfallF"></h4>
+				</div>
+			</div>
+
+			<button class="weatherBtn" onclick="fetchData()">
+				Get Weather
+			</button>
+		</div>
+	</body>
+
+	<script src="script.js"></script>
+</html>

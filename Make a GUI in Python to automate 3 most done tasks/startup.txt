@@ -1,0 +1,10 @@
+Windows: 
+1. Copy the python file
+2. Navigate to C:\Users\{my user}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+3. Paste the file
+
+Linux:
+Become root by typing sudo su
+Edit /etc/rc.local by typing "sudo nano /etc/rc.local"
+paste the following:
+    sudo python3 /path/to/my/script/gui.py
