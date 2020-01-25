@@ -20,10 +20,13 @@ Deliverables:
 
 Submit the code in Pagure/GitHub and screen records of your program controlling the mouse. Write a small documentation in the README.md file Do not copy the code from GitHub or Stack Overflow. Try making the program by yourself.
 
+https://github.com/Abtaha/MouseCam
 
 ### 2048 Game GUI
 
 Make a GUI to implement the 2048 game using Tkinter. Make sure you display the score in the GUI and use proper color scheme. Convert the GUI to a .rpm/.deb file for use on your favorite Linux distribution. Make a Github repository with the code and instructions to use it.
+
+https://github.com/Abtaha/2048-Game
 
 ### Craft your custom port scanner in python
 
@@ -32,6 +35,8 @@ A port scanner is a tool for determining which ports are open on a network. Port
 Deliverables:
 
 Share the code in Pagure/GitHub and also attach the Asciinema recording of the scanner running in your terminal.
+
+https://github.com/Abtaha/Python-Port-Scanner
 
 ### Ping Pong game using JavaScript
 
@@ -45,6 +50,8 @@ Make a ping pong game using JavaScript canvas. The game must have the following 
 
 When you're done make a github repository and push the code. Host on github pages.
 
+https://github.com/Abtaha/Ping-Pong-in-JS
+
 ### Create a script to know who is on your Wi-Fi
 
 WiFi Reconnaissance is an important process in information gathering. You can know the number of people connected to your WiFi and get their MAC(Media Access Control) which will help you further in exploiting the device. You need to create a WiFi Recon tool that scans the whole network and finds all the devices connected to it.
@@ -52,6 +59,8 @@ WiFi Reconnaissance is an important process in information gathering. You can kn
 Deliverables:
 
 Share the code in Pagure/Github and attach the Asciinema showing the number of devices to the Wifi.
+
+https://github.com/Abtaha/WiPy-Recon
 
 ### Create a font with FontForge
 
@@ -63,6 +72,8 @@ You can design your own font using FontForge, by following the Guide create your
 ### Tic Tac Toe GUI
 
 Make a GUI to implement Tic Tac Toe game using Tkinter. Convert the GUi to a .deb file for use on your favourite linux distribution. Make a github repository with the code and instructions to use it.
+
+https://github.com/Abtaha/TicTacToe-Game
 
 ### Detect the XSS Vulnerability
 
@@ -95,6 +106,8 @@ You have to submit:
 
 Put all of that in a Pagure/GitHub repo and share the link with me.
 
+https://github.com/Abtaha/Zip-Cracker
+
 ### Spell checker with python
 
 Ever felt how spell checking works? it instantly detects the errors and prompts you to fix them, based on the same idea. The program you create should:
@@ -110,6 +123,8 @@ You are allowed to use the spellchecker pip package.
 ### Calculator GUI in Java 
 
 Make a GUI using the Java Swing package which works as a scientific calculator, you might use Netbeans IDE to fascilitate the design process of the GUI.Make a github repository for the same.
+
+https://github.com/Abtaha/Java-Swing-Calculator
 
 ### Bookmark Application
 
@@ -133,6 +148,8 @@ Please provide the github link consisting of the source code along with the maps
 
 https://extract.bbbike.org/
 
+https://github.com/Abtaha/Shapefiles-and-Maps
+
 ### Pollution/Climate and Geographic Information System 
 
 This task is an extension to shapefiles and maps (although, it can be completed independently)
@@ -144,6 +161,8 @@ This task is an extension to shapefiles and maps (although, it can be completed 
 * The data that you'll obtain, typically it would be various locations within the city. Superimpose the map of the city (step 2) with the data that you obtained (step 1).
 
 * Interpolate the data (https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.griddata.html#scipy.interpolate.griddata)
+
+https://github.com/Abtaha/Geographic-Information-System-New-York
 
 ### Weather Forcast Webapp
 
@@ -157,6 +176,8 @@ https://openweathermap.org/api
 Google News provides the latest news that are published globaly in well known news networks, this API can be used anywhere so we want you to create a news app using this API.
 You should create an app or a website that uses the given code combined with requests to show any news related to these keywords: Linux , Open-source and Android that are sorted from newest to oldest. You can use this guide to setup your app. Note that you can do this with javascript and use your browser as envirnoment.
 Submit your python, Node.js or C# made app along with a recording of you running it. Having a GUI is mandatory.
+
+http://news-cog.herokuapp.com/
 
 ### Analyzing pcap files to get details of a Network Traffic 
 
@@ -177,6 +198,8 @@ Deliverables:
 
 Share the code in GitHub/Pagure with the ASCIINEMA included.
 
+https://github.com/Abtaha/PCAP-Analyzer
+
 ### Hide text inside an image using Stegnography
 
 Stenography is the practice of concealing a file, message, image, or video within another file, message, image, or video. It is related to cryptography and is just about as old. You can use it to transport sensitive data from point A to point B such that the transfer of the data is unknown. This helps data to conserve its integrity. You need to create a Script that encodes and decodes a text from an image(png and jpg). I have attached a link showing how your output should look like.
@@ -184,6 +207,8 @@ Stenography is the practice of concealing a file, message, image, or video withi
 Deliverables:
 
 Submit the code in Pagure/GitHub. Attach the image you encrypted along with the Asciinema recording while you perform the encryption and decryption.
+
+https://github.com/Abtaha/Text-Encryptor-through-Steganography
 
 ### OSINT - Open Source Intelligence on Public Platform
 
@@ -198,6 +223,8 @@ Upload your script to GitHub/Pagure and attach a Asciinema of your terminal show
 Write a python script that automatically posts tweets of links of latest articles in Fedora Magazine along with their titles. For example Fedora and CentOS Stream https://fedoramagazine.org/fedora-and-centos-stream/. Learn more about scripting from https://www.guru99.com/python-tutorials.html. You can get recent articles from fedora magazine (https://fedoramagazine.org/). Don’t use Twitter API, for posting tweets, using Selenium or PhantomJS or any suitable web browser. Follow this article for more help https://realpython.com/modern-web-automation-with-python-and-selenium/
 
 Output - Code of python script in Github Screencast of the blog getting posted.
+
+https://github.com/Abtaha/Twitter-Bot
 
 ### Time Bound Computation (Python)
 
@@ -233,9 +260,13 @@ Deliverables
 * Please submit a GitHub link to the repository containing the script for the publisher build.
 * Upload a screenshot or screen recording of the listener and publisher in action.
 
+https://github.com/Abtaha/fedora-messaging-demo
+
 ### Create your first Telegram Bot
 
 Make a simple bot which fetches the number of forks from the repo of Fedora-Infra. Scrape from https://api.github.com/orgs/fedora-infra/repos. Make a dedicated repository or show the code via gist. Make the bot in Python. Python - https://github.com/python-telegram-bot/python-telegram-bot (https://python-telegram-bot.readthedocs.io/en/stable/) Submit a link to your repository. Add an demo attachment(png).
+
+https://github.com/Abtaha/Telegram-Bot
 
 ### ffmpeg and Climate/Pollution gifs 
 
@@ -244,6 +275,8 @@ This task is an extension of Pollution/Climate and Geographic Information System
 This task will involve making GIFs for Pollution/Climate data for a given range (say 7 days). Repeat the process from the previous task: Pollution/Climate and Geographic Information System for the desired number of days. Each time save the plot as a .png file.
 
 Finally, use ffmpeg to merge the all the .png to make a .gif file. https://unix.stackexchange.com/a/24103
+
+https://github.com/Abtaha/Climate-of-New-York-with-Python
 
 ### Periodic table guessing game
 
@@ -258,6 +291,8 @@ Submission format:
 
 Github link with code and scrrenshots of the GUI
 
+https://github.com/Abtaha/Periodic-Table-Guessing-Game
+
 ### Create a program to detect colors from an image
 
 Image processing is a subset of computer vision. A computer vision program uses the image processing algorithms to try and perform emulation of vision at a human scale. Make a program using python and Open-CV that detects colors present in an image.
@@ -265,6 +300,8 @@ Image processing is a subset of computer vision. A computer vision program uses 
 Deliverables:
 
 Share the code in Pagure/GitHub. Send the screenshots of the output. You can also attach a Asciinema recording of your terminal. Do not copy someone else's code from GitHub/Stack Overflow.
+
+https://github.com/Abtaha/Detect-Colors-from-Image
 
 ### University data managment
 
@@ -276,6 +313,8 @@ A university asks you, in order to determine the best applicants, you should cre
 
 Your algorithm will read and process data from the given ODF files in the same format as here, then sort the applicants from the best to the worst according to their academics, Interview and IELTS and output it in a simple ODF or txt format. (Note that I will test further your code by giving it ODF files with different names, marks, student count etc.) Upload your code either in Zip or github along with the results.
 
+https://github.com/Abtaha/University-data-managment
+
 ### Create a program to Identify Numerical Digits
 
 Computer Vision is a field in Artificial Intelligence which teaches the computer to visualize the 3D world. Computer vision include methods for obtain, process, analyze and understand digital images, and drawing out data from the real world to produce numerical or symbolic information. In simple words, its main goal is to extract meaning from pixels. Make a program that detects Numerical Digits present in an image.
@@ -283,6 +322,8 @@ Computer Vision is a field in Artificial Intelligence which teaches the computer
 Deliverables:
 
 Share the code in Pagure/GitHub. Screen Record the output and attach it in your README file. Do not copy the code from GitHub/Stack Overflow.
+
+https://github.com/Abtaha/Identify-Numerical-Digits-OpenCV
 
 ### Pool Puzzle
 
@@ -296,6 +337,8 @@ Using astropy, read the fits file in python (Jupyter notebook). Edit the headers
 
 Articulate your findings in the task and write a few paragraphs about it in the same Notebook.
 
+https://github.com/Abtaha/Astronomy-with-Python
+
 ### Create a reverse WHOIS lookup using viewdns in python
 
 WHOIS is a query-response protocol used for searching databases that store the information for registered users. It can search a domain name, an IP address or an autonomous system. WHOIS Reconnaissance is a crucial part in the process of Information Gathering. Create a python script that uses https://viewdns.info to find domain names owned by an individual person or a company.
@@ -303,6 +346,8 @@ WHOIS is a query-response protocol used for searching databases that store the i
 Deliverables:
 
 Share the code in Pagure/GitHub and provide the Asciinema recording while executing the script. Give a brief description on what is WHOIS lookup.
+
+https://github.com/Abtaha/Reverse-WHOIS-lookup-using-viewdns
 
 ### Benchmark: Python, Julia, C++ 
 
@@ -314,6 +359,8 @@ Choose two matrix operations: Finding inverse, Transpose, Diagonalization etc.
 
 Use Makefile for this task for bonus points.
 Submit the link for git repo
+
+https://github.com/Abtaha/Benchmark-Python-Julia-C-
 
 ### Image manipulation with python 
 
@@ -329,6 +376,8 @@ Deliverables:
 
 Submit the code in Pagure/GitHub and and Asciinema recording which shows you are controlling the victim.
 
+https://github.com/Abtaha/Remote-Command-Execution-For-Hacking
+
 ### Create an Ansibile Role to automate the installation process of tensorflow
 
 Ansible uses YAML(YAML Ain’t Markup Language) syntax. Unlike many programming languages, YAML is relatively easy to understand by just looking at the code. Ansible playbooks are cool tools widely used in automation of tasks that takes up time. Tensorflow is an open-source library with is capable of running machine learning algorithms. It was developed by google brain’s team. The installation processes can sometimes be tiresome. Learn more about Tensorflow and Create an Ansible Role to automate the installation process of Tensorflow(CLI-Command Line Interface) or GUI(Graphic User Interface).
@@ -336,6 +385,8 @@ Ansible uses YAML(YAML Ain’t Markup Language) syntax. Unlike many programming 
 Deliverables:
 
 Upload the Code to Pagure/GitHub and give a small explanation about Tensorflow in the README file. Provide an Asciinema of your terminal while executing your code.
+
+https://github.com/Abtaha/Ansibile-Role-to-automate-the-installation-process-of-tensorflow
 
 ### Hacking using Hardware (Craft a Rubber Ducky)
 
@@ -346,6 +397,8 @@ Hackers use many types of methods to gain access to a victim computer. Rubber du
 NOTE: In this task you need to use any of the hardware to gain a reverse shell to a Windows computer.
 
 Deliverables: Share the Arduino code in a GitHub/Pagure repo with a documentation for the task including screenshots on how it works on a victim computer. It will be better if the documentation is in the README.
+
+https://github.com/Abtaha/Rubber-Ducky-with-Arduino
 
 ### Avengers Endgame 
 
